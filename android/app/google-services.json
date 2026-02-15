@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628966408192",
+    "project_id": "ecommerce-app-snl",
+    "storage_bucket": "ecommerce-app-snl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628966408192:android:102520543f013c7b8298e5",
+        "android_client_info": {
+          "package_name": "com.shajeehsanal.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSsx5jKj8BMP2XVhk7juF_i7lHi4xx6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

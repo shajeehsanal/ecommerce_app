@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ecommerce-app-snl",
+          "appId": "1:628966408192:android:102520543f013c7b8298e5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ecommerce-app-snl",
+          "configurations": {
+            "android": "1:628966408192:android:102520543f013c7b8298e5",
+            "ios": "1:628966408192:ios:9a70a411ca7a06f58298e5"
+          }
+        }
+      }
+    }
+  }
+}
